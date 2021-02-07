@@ -23,11 +23,7 @@ Aplikacja ma za zadanie wysyłać wiadomości mail rss do adresatów i z linkami
 
 Dla prawidłowego działania wymagane jest skonfigurowanie kilku plików zgodnie z utworzoną bazą oraz samo utworzenie bazy. Szczegóły poniżej
 
-Pliki wymagające konfiguracji:
 
-connection.php
-
-send_mail.php
 
 Konfiguracja serwera MySql i tworzenie bazy
 
